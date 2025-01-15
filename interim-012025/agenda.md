@@ -12,6 +12,20 @@
 | 15 min | CATS Metrics Discussion       | Kehan                   |
 | 15 min | Next Steps                    | All                     |
 
+## Use Cases I-Ds
+
+| I-D    | Authors follow-up                          |
+|-------:|:-----------------------------:|
+| draft-ftzhs-cats-industrial-requirement | No |
+| draft-jeong-cats-its-use-cases | ACK |
+| draft-lcmw-cats-midhaul | ACK       |
+|draft-jiang-cats-usecase-5gedge | No                    |
+|draft-wang-cats-usecase-green | ACK                    |
+|draft-bernardos-cats-anchoring-service-mobility | ACK, but authors not ready to present|
+|draft-wang-cats-green-challenges | ACK                   |
+|draft-jiang-cats-usecase-5gedge | No                    |
+
+
 ## Agenda
 
 ### 0. Settling time (5 mins, 5/120)
