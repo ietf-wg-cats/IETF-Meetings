@@ -23,8 +23,6 @@
 |draft-wang-cats-usecase-green | ACK                    |
 |draft-bernardos-cats-anchoring-service-mobility | ACK, but authors not ready to present|
 |draft-wang-cats-green-challenges | ACK                   |
-|draft-jiang-cats-usecase-5gedge | No                    |
-
 
 ## Agenda
 
