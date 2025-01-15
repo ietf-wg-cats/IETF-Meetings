@@ -16,7 +16,7 @@
 
 | I-D    | Authors follow-up                          |
 |-------:|:-----------------------------:|
-| draft-ftzhs-cats-industrial-requirement | No |
+| draft-ftzhs-cats-industrial-requirement | ACK |
 | draft-jeong-cats-its-use-cases | ACK |
 | draft-lcmw-cats-midhaul | ACK       |
 |draft-jiang-cats-usecase-5gedge | No                    |
