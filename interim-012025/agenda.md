@@ -3,11 +3,20 @@
 * When: Wed 15 Jan 2025
 * Co-Chairs: Adrian Farrel, Mohamed Boucadair, Peng Liu
 
+## Compact Agenda
+
+| Slot   | Topic                         | Presenters              |
+|:------:|:-----------------------------:|:-----------------------:|
+| 10 min | Agenda Bashing & Introduction | Chairs                  |
+| 80 min | CATS Use Cases & Requirements | Paul/Fu/Luis/Jing/Kehan |
+| 15 min | CATS Metrics Discussion       | Kehan                   |
+| 15 min | Next Steps                    | All                     |
+
 ## Agenda
 
 ### 0. Settling time (5 mins, 5/120)
 ### 1. Administrivia - chairs (5 mins, 10/120)
-### 2. Use cases and requirements
+### 2. Use Cases and Requirements
 #### 2a. draft-jeong-cats-its-use-cases - Jaehoon (Paul) or Bien Aime (15 minutes,25/120)
 #### 2b. draft-ftzhs-cats-industrial-requirement - Fu Tao (15 minutes,40/120)
 #### 2c. draft-lcmw-cats-midhaul - Luis (15 minutes, 55/120)
