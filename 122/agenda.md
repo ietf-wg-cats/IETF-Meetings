@@ -15,7 +15,7 @@
 | Slot  | Topic                         | Presenters                 |
 |:-----:|:-----------------------------:|:--------------------------:|
 | 10 min| Agenda Bashing & Introduction | Chairs                     |
-| 30 min| CATS Use Cases & Requirements | Kehan                      |
+| 30 min| CATS Use Cases & Requirements | Kehan/Carlos               |
 | 15 min| CATS Framework                | Cheng                      |
 | 30 min| CATS Metrics                  | Kehan/Jordi                | 
 | 5 min | Open Discussion               | All                        |
