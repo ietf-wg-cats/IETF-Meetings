@@ -15,7 +15,7 @@
 | Slot  | Topic                         | Presenters                 |
 |:-----:|:-----------------------------:|:--------------------------:|
 | 10 min| Agenda Bashing & Introduction | Chairs                     |
-| 30 min| CATS Use Cases & Requirements | Kehan/Carlos               |
+| 30 min| CATS Use Cases & Requirements | Kehan/Carlos/Trần          |
 | 15 min| CATS Framework                | Cheng                      |
 | 30 min| CATS Metrics                  | Kehan/Jordi                | 
 | 5 min | Open Discussion               | All                        |
@@ -36,8 +36,9 @@
 ### 2.1. Status Update of the UCs Consolidation IETF#121 Plan (Kehan Yao) 15 min
 ### 2.2. Discussion about how use cases proposed in I-Ds are overlapping with existing UCs/have to be captured
 
-#### 2.2.1. [Integrated Sensing and Communications (ISAC) use case for CATS](https://datatracker.ietf.org/doc/draft-bernardos-cats-isac-uc/) (Carlos J. Bernardos) 5 min
-#### 2.2.2. Open Discussion (All)
+#### 2.2.1. [Integrated Sensing and Communications (ISAC) Use Case for CATS](https://datatracker.ietf.org/doc/draft-bernardos-cats-isac-uc/) (Carlos J. Bernardos) 5 min
+#### 2.2.2. [CATS Requirements Considerations for Service Segmentation-related Use Cases](https://datatracker.ietf.org/doc/draft-dcn-cats-req-service-segmentation/) (Trần Minh Ngọc)  5 min
+#### 2.2.3. Open Discussion (All)
 
 ## 3. CATS Framework (15 min)
 
