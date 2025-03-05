@@ -17,7 +17,7 @@
 | 10 min| Agenda Bashing & Introduction | Chairs                     |
 | 30 min| CATS Use Cases & Requirements | Kehan/Carlos/Trần          |
 | 15 min| CATS Framework                | Cheng                      |
-| 30 min| CATS Metrics                  | Kehan/Jordi                | 
+| 30 min| CATS Metrics                  | Kehan/Jordi/Zongpeng       | 
 | 5 min | Open Discussion               | All                        |
 
 ## 1. Agenda Bashing, Introduction, & WG Status (Chairs, 10 min)
