@@ -68,9 +68,14 @@
   + *Status updates since last interim*
   + *Review of open issues*
 
-### 4.1. CATS Metric Description and Definition (30 min)
+### 4.1. CATS Metric Description and Definition (25 min)
 
 * Presenter: Kehan Yao
 * Reading Material: [draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
+
+### 4.2. Default Policy and Related Metrics in CATS (5 min)
+
+* Presenter: Zongpeng Du
+* Reading Material: [draft-du-cats-default-policy-and-metrics](https://datatracker.ietf.org/doc/draft-du-cats-default-policy-and-metrics/)
 
 ## 5. Open Discussion & Next Steps (All)
