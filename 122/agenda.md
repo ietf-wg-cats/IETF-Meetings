@@ -58,9 +58,9 @@
 
 *Goals*: 
   + Status updates since last interim
-  + Review of open issue
+  + Review of open issues
 
 * Presenter: Kehan Yao
-* Reading Material: [draft-ysl-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ysl-cats-metric-definition/)
+* Reading Material: [draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
 
-## 6. Open Discussion & Next Steps (All)
+## 5. Open Discussion & Next Steps (All)
